@@ -10,6 +10,6 @@ git clone https://github.com/harshdeepsinghin/Pomodoro-Timer.git
 cd Pomodoro-Timer
 ```
 
-For particular langauge, refer to their READMEs
+For particular langauges, refer to their READMEs by clicking from following list:
 
 - [Python](Python/README.md)
