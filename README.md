@@ -10,21 +10,6 @@ git clone https://github.com/harshdeepsinghin/Pomodoro-Timer.git
 cd Pomodoro-Timer
 ```
 
-#### Python
+For particular langauge, refer to their READMEs
 
-```bash
-cd Python
-```
-
-Setup a virtual environment.
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-```
-
-Install the dependencies.
-
-```bash
-pip3 install -r requirements.txt
-```
+- Python [[Python/README.md]]
