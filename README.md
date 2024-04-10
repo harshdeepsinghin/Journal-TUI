@@ -12,4 +12,4 @@ cd Pomodoro-Timer
 
 For particular langauge, refer to their READMEs
 
-- Python [[Python/README.md]]
+- [Python](Python/README.md)
