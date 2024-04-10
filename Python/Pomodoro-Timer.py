@@ -48,7 +48,7 @@ def pomodoro_timer(WORK=25, BREAK=5, CYCLES=8):
     return 0
 
 def main():
-    parser = argparse.ArgumentParser(description="Pomodoro Timer")
+    parser = argparse.ArgumentParser(description="A Pomodoro Timer written in Python")
     parser.add_argument('-w', '--work-time', type=int, default=25, help='Minutes for work (default: 25)')
     parser.add_argument('-b', '--break-time', type=int, default=5, help='Minutes for break (default: 5)')
     parser.add_argument('-c', '-r', '--cycles', '--rounds', type=int, default=8, help='Number of cycles/rounds (default: 8)')
