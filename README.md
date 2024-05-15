@@ -1,7 +1,7 @@
-# Pomodoro Timer
+# Journal TUI
 
 ### Introduction
-A Pomodoro Timer in multiple languages. For now, only in Python
+A TUI Journal Program in multiple languages. For now, only in Python
 
 ### Installation
 
